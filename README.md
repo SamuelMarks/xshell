@@ -1,6 +1,6 @@
 
 Inspired by Gustavo Rodriguez-Rivera and Justin Ennen: Introduction to Systems Programming: a Hands-on Approach
-systemsprogrammingbook.com
+https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/
 
 To compile,
 ```

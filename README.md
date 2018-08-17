@@ -1,14 +1,13 @@
-# [xshell] Project
-# Inspired by Gustavo Rodriguez-Rivera and Justin Ennen,I ntroduction to Systems Programming: a Hands-on Approach
-# systemsprogrammingbook.com
+
+Inspired by Gustavo Rodriguez-Rivera and Justin Ennen: Introduction to Systems Programming: a Hands-on Approach
+systemsprogrammingbook.com
 
 To compile,
 ```
 make
 ./xshell
 ```
-
-## Files
+Files
 ```
 shell.c, shell.h - contains built-in functions, execution functions, and how the shell functions.
 lexer/lex.l, put the input char together into tokens.
@@ -19,10 +18,4 @@ lists/chain and ll - linked list and command table container definitions.
 Commands in the form of
 ```
 cmd [arg]* [|cmd [arg]*]* [< fn1] [>[>] fn2] [2>fn3 || 2>&1] [&]
-
-piping
-input
-output
-error
-background
-```
+'''
